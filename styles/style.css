@@ -268,6 +268,7 @@
   
 }
 
+
 .our-sponsor-box{
   max-width: 540px;
   margin: 80px auto;
@@ -388,8 +389,9 @@
   }
 
   .fact-content-container{
-    width: 700px;
+    width: 100%;
     margin: 0 auto;
+    
   }
 
   .feature-image img{
