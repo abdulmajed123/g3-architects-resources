@@ -298,6 +298,19 @@
   filter: grayscale(100%);
 }
 
+.footer-area{
+  max-width: 1440px;
+  margin: 0 auto;
+  border-radius: 8px;
+  background: rgb(255, 244, 231);
+  padding: 39px 40px;
+  text-align: center;
+  margin-top: 167px;
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #424242;
+}
+
 
 
 
@@ -348,17 +361,15 @@
   .fact-card{
     margin: 0 auto;
   }
-  /* .fact-content-container{
-    width: 250px;
-    margin: 0 auto;
-  } */
-
 
   .our-feature{
     margin-left: 20px;
   }
 }
-
+.footer-area{
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
 
 @media screen and (min-width: 576px) and (max-width: 992px){
   .teams,
