@@ -216,6 +216,10 @@
   .fact-card{
     margin: 0 auto;
   }
+  .fact-content-container{
+    width: 250px;
+    margin: 0 auto;
+  }
 
 
   .our-feature{
@@ -228,6 +232,21 @@
   .teams{
     flex-direction: column;
   }
+
+  .fact-container{
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  .fact-content-container{
+    width: 700px;
+    margin: 0 auto;
+  }
+
+  .fact-card{
+    margin: 0 auto;
+  }
+
+
 
 .our-feature{
   margin-left: 50px;
